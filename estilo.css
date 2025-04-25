@@ -39,7 +39,7 @@ h1 {
 }
 .icons i:hover {
     transform: scale(1.2) rotate(-6deg);
-    color: #ffaf7b;
+    color: #6cd3ff;
 }
 @media (max-width: 600px) {
     h1 { font-size: 2.2rem; }
