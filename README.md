@@ -1,4 +1,4 @@
-# Hola Mundo Profesional Nebulosa 🚀
+# Hola Mundo para DevOps- Anthony A. Rodriguez 🚀
 
 Proyecto final DevOps CI/CD: Página web profesional "Hola Mundo" con fondo animado de nebulosa, íconos de programación y despliegue automático usando Docker, Nginx y GitHub Actions.
 
